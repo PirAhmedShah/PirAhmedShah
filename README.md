@@ -1,14 +1,14 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&color2=4ade80&height=110&section=header" alt="header"/>
+<img width="100%" src="assets/banner-github.png" alt="Backend/Full-Stack Engineer · Ships MVPs fast · Auth, Data Integrity @ FAST-NUCES"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=500&color=4ADE80&width=560&lines=Hello%2C+I%27m+Pir+Ahmed+Shah;Backend+Engineer;Auth+%C2%B7+Data+Integrity+%C2%B7+DevOps;Building+in+Public;Open+to+Freelance+Work" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=500&color=4ADE80&width=560&lines=Hello%2C+I%27m+Pir+Ahmed+Shah;Backend%2FFull-Stack+Engineer;Ships+MVPs+Fast;Auth+%C2%B7+Data+Integrity;Building+in+Public;Open+to+Freelance+Work" alt="typing animation"/>
 </div>
 
 ## About
 
-- Backend engineer focused on **auth, data integrity, and DevOps**
+- Backend/Full-Stack engineer focused on **auth, data integrity, and DevOps** — ships MVPs fast on a template + AI-assisted toolchain
 - Shipped the auth/identity layer for **RoDevsy**, a planned escrow marketplace: EdDSA-signed JWTs, refresh tokens that revoke explicitly on logout, immutable history tables, 99.5% statement coverage. The escrow ledger was spec'd but never built, so it's not listed as delivered work
 - Fourth-semester CS student at **FAST-NUCES**
 - Building in public: [pirahmedshah.github.io/blog](https://pirahmedshah.github.io/blog)
