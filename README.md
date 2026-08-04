@@ -8,7 +8,7 @@
 
 ## About
 
-- Backend/Full-Stack engineer focused on **auth, data integrity, and DevOps** — ships MVPs fast on a template + AI-assisted toolchain
+- Backend/Full-Stack engineer focused on **auth, data integrity, and DevOps** ships MVPs fast on a template + AI-assisted toolchain
 - Shipped the auth/identity layer for **RoDevsy**, a planned escrow marketplace: EdDSA-signed JWTs, refresh tokens that revoke explicitly on logout, immutable history tables, 99.5% statement coverage. The escrow ledger was spec'd but never built, so it's not listed as delivered work
 - Fourth-semester CS student at **FAST-NUCES**
 - Building in public: [pirahmedshah.github.io/blog](https://pirahmedshah.github.io/blog)
